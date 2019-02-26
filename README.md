@@ -15,6 +15,12 @@ Features
 
 - Declarative syntax for commands and parser.
 
+Installation
+------------
+- ```git clone https://github.com/DasIch/opts.git```
+- ```cd osts ```
+- ``` python2 setup.py install --user ```
+
 Links
 -----
 
