@@ -18,7 +18,7 @@ Features
 Installation
 ------------
 - ```git clone https://github.com/DasIch/opts.git```
-- ```cd osts ```
+- ```cd opts ```
 - ``` python2 setup.py install --user ```
 
 Links
